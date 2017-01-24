@@ -4,11 +4,11 @@ baseurl = "http://example.org/"
 theme = "dimension"
 
 [params]
-  title = "Dimension"
-  description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
-                <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
+  title = "Nocturnal|Post Production"
+  description = '<!--[-->Immersive audio<!--]--><br/>
+                <!--[-->design for VR<!--]-->'
   logo = "fa-diamond"
-  copyright = "Untitled"
+  copyright = "nocturnal"
 
 [[params.social]]
   medium = "twitter"
