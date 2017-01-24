@@ -10,4 +10,4 @@ Run hugo:
     hugo server --buildDrafts --theme=dimension
 
 to publish:
-
+    hugo server --theme=dimension
