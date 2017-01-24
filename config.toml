@@ -1,6 +1,6 @@
 languageCode = "en-us"
-title = "Dimension"
-baseurl = "http://example.org/"
+title = "Nocturnal"
+baseurl = "http://nocturnal.com/"
 theme = "dimension"
 
 [params]
