@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Nocturnal"
-baseurl = "http://mpwoz.com/nocturnal/"
+baseurl = "http://nocturnalpost.com/"
 theme = "dimension"
 
 [params]
