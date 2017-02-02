@@ -5,4 +5,4 @@ publish:
 	git push
 
 server:
-	hugo --theme=dimension
+	hugo server --theme=dimension
