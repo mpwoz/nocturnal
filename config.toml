@@ -5,10 +5,9 @@ theme = "dimension"
 
 [params]
   title = "Nocturnal|Post Production"
-  description = '<!--[-->Immersive audio<!--]--><br/>
-                <!--[-->design for VR<!--]-->'
+  description = 'Immersive audio design for VR'
   logo = "fa-diamond"
-  copyright = "nocturnal"
+  copyright = "nocturnal post production"
 
 [[params.social]]
   medium = "twitter"

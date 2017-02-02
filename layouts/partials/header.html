@@ -1,0 +1,10 @@
+<div>
+  <h2>Nocturnal</h2>
+  <h3>Post Production</h3>
+</div>
+
+<ul class="icons">
+        {{ range .Site.Params.social }}
+        <li><a href="{{ .link | safeURL }}" class="icon fa-{{ .icon }}"><span class="label">{{ .medium }}</span></a></li>
+        {{ end }}
+</ul>

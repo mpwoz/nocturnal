@@ -1133,7 +1133,6 @@
 		-ms-justify-content: space-between;
 		justify-content: space-between;
 		position: relative;
-		min-height: 100vh;
 		width: 100%;
 		padding: 4rem 2rem;
 		z-index: 3;
@@ -1204,7 +1203,7 @@
 			margin-top: 3.5rem;
 		}
 
-			#header > *:before {
+			#header > .use-middle:before {
 				content: '';
 				display: block;
 				position: absolute;
