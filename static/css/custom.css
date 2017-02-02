@@ -30,6 +30,12 @@
   }
 }
 
+@media screen and (max-width: 480px) {
+  #bg:after {
+    background-image: none;
+  }
+}
+
 .nowrap {
   display: inline-block;
 }
