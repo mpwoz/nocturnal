@@ -32,23 +32,22 @@
         </div>
         <nav>
           <ul>
-            <li><a href="#intro">Intro</a></li>
-            <li><a href="#work">Work</a></li>
             <li><a href="#about">About</a></li>
+            <li><a href="#work">Work</a></li>
+            <li><a href="#partners">Partners</a></li>
             <li><a href="#contact">Contact</a></li>
-            <!-- <li><a href="#elements">Elements</a></li> -->
           </ul>
         </nav>
       </header>
 
       <!-- Main -->
       <div id="main">
-
-        <!-- Intro -->
-        <article id="intro">
-          <h2 class="major">Intro</h2>
-          <span class="image main"><img src="img/pic01.jpg" alt="" /></span>
-          {{ partial "intro" . }}
+        <!-- About -->
+        <article id="about">
+          <h2 class="major">About</h2>
+          <span class="image main"><img src="img/pic03.jpg" alt="" /></span>
+          {{ partial "about" . }}
+          <p class="copyright">&copy; {{ .Site.Params.copyright }}. Design: <a href="https://html5up.net">HTML5 UP</a>. Powered by <a href="https://www.gohugo.io/">Hugo.</a></p>
         </article>
 
         <!-- Work -->
@@ -58,12 +57,13 @@
           {{ partial "work" . }}
         </article>
 
-        <!-- About -->
-        <article id="about">
-          <h2 class="major">About</h2>
-          <span class="image main"><img src="img/pic03.jpg" alt="" /></span>
-          {{ partial "about" . }}
+        <!-- Partners -->
+        <article id="partners">
+          <h2 class="major">Partners</h2>
+          <span class="image main"><img src="img/pic01.jpg" alt="" /></span>
+          {{ partial "partners" . }}
         </article>
+
 
         <!-- Contact -->
         <article id="contact">
@@ -74,7 +74,6 @@
 
       <!-- Footer -->
       <footer id="footer">
-        <p class="copyright">&copy; {{ .Site.Params.copyright }}. Design: <a href="https://html5up.net">HTML5 UP</a>. Powered by <a href="https://www.gohugo.io/">Hugo.</a></p>
       </footer>
 
     </div>
