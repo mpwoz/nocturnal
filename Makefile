@@ -1,7 +1,8 @@
 publish:
 	hugo --theme=dimension
 	cd public
-	git ci -am "Automatic build"
+	git add .
+	git ci -m "Automatic build"
 	git push
 
 server:
