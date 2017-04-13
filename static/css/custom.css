@@ -50,10 +50,12 @@ img#logo {
 .bios {
   display:flex;
   justify-content:space-around;
-  flex-direction: column;
+  flex-direction: row;
   color: #227BB4;
+  font-size: 2em;
 }
 .bio img{
+  padding-right: 10px;
   width: 100%;
   border-radius: 4px;
 }
