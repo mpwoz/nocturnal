@@ -1,7 +1,5 @@
 publish: build
-	cd public
-	git commit -a -m "auto publish"
-	git push
+	cd public && git add --all && git commit -m "auto publish" && git push
 
 build:
 	hugo --theme=dimension
