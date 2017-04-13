@@ -1,12 +1,12 @@
 languageCode = "en-us"
-title = "Nocturnal"
-baseurl = "http://nocturnalpost.com/"
+title = "Noctvrnal"
+baseurl = "http://noctvrnal.com/"
 theme = "dimension"
 
 [params]
-  title = "Nocturnal|Post Production"
+  title = "Noctvrnal|Post Production"
   logo = "fa-diamond"
-  copyright = "nocturnal post production"
+  copyright = "Noctvrnal post production"
 
 [[params.social]]
   medium = "facebook"
