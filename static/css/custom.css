@@ -53,6 +53,7 @@ img#logo {
   flex-direction: row;
   color: #227BB4;
   font-size: 1.3em;
+  text-align: center;
 }
 .bio img{
   padding-right: 10px;
