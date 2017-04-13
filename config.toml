@@ -9,21 +9,24 @@ theme = "dimension"
   copyright = "nocturnal post production"
 
 [[params.social]]
-  medium = "twitter"
-  icon = "twitter"
-  link = "https://twitter.com/Nocturnal_VR"
-
-[[params.social]]
   medium = "facebook"
   icon = "facebook"
-  link = "https://www.facebook.com/nocturnalvr/"
+  link = "https://www.facebook.com/noctvrnalvr/"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "https://twitter.com/Noctvrnal_VR"
 
 [[params.social]]
   medium = "instagram"
   icon = "instagram"
-  link = "https://www.instagram.com/nocturnalvr/"
+  link = "https://www.instagram.com/noctvrnal_vr/?hl=en"
 
 [[params.social]]
   medium = "youtube"
   icon = "youtube"
   link = "https://www.youtube.com/channel/UCoBvG6fUQx9o4aTZBqdJdQw"
+
+
+
