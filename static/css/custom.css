@@ -52,7 +52,7 @@ img#logo {
   justify-content:space-around;
   flex-direction: row;
   color: #227BB4;
-  font-size: 2em;
+  font-size: 1.3em;
 }
 .bio img{
   padding-right: 10px;
