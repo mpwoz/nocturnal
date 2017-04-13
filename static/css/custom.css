@@ -30,7 +30,7 @@ img#logo {
   }
 
   img#logo {
-    max-width: 300px
+    max-width: 150px;
   }
 }
 
@@ -50,7 +50,17 @@ img#logo {
 .bios {
   display:flex;
   justify-content:space-around;
+  flex-direction: column;
+  color: #227BB4;
 }
 .bio img{
   width: 300px;
+}
+
+.copyright {
+  color: #555;
+  font-size: 80%;
+}
+.copyright a {
+  border:none;
 }
