@@ -6,3 +6,9 @@ build:
 
 server:
 	hugo server --theme=dimension
+
+install:
+	apt-get install hugo
+	mkdir themes
+	cd themes
+	git clone https://github.com/sethmacleod/dimension.git
