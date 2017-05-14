@@ -9,6 +9,9 @@ server:
 
 install:
 	apt-get install hugo
+	# install theme
 	mkdir themes
 	cd themes
 	git clone https://github.com/sethmacleod/dimension.git
+	# clone published gh-pages branch into public/ subdirectory
+	git worktree add -B gh-pages public origin/gh-pages
