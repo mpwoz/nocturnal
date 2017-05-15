@@ -47,36 +47,25 @@
         </nav>
 
         </div>
-
         <div class="content">
           <div class="inner">
-            {{ partial "title" . }}
           </div>
         </div>
       </header>
 
       <!-- Main -->
       <div id="main">
-        <!-- About -->
-        <article id="about">
-          <h2 class="major">About</h2>
-          {{ partial "about" . }}
-          {{ partial "bios" . }}
-          <p class="copyright">&copy; {{ .Site.Params.copyright }}. Design: <a href="https://html5up.net">HTML5 UP</a>. Powered by <a href="https://www.gohugo.io/">Hugo.</a></p>
-        </article>
-
-        <!-- Work -->
-        <article id="work">
-          <h2 class="major">Work</h2>
-          {{ partial "work" . }}
-        </article>
-
-        <!-- Contact -->
-        <article id="contact">
-          <h2 class="major">Contact</h2>
-          {{ partial "contact" . }}
+        <article class="active">
+            {{ .Content }}
         </article>
       </div>
+
+      <!-- Footer -->
+      <footer id="footer">
+      </footer>
+
+    </div>
+
 
       <!-- Footer -->
       <footer id="footer">

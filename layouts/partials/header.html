@@ -1,9 +1,0 @@
-<div>
-  <span class="namelogo"><img src="img/namelogo.png" alt="" /></span>
-</div>
-
-<ul class="icons">
-        {{ range .Site.Params.social }}
-        <li><a href="{{ .link | safeURL }}" class="icon fa-{{ .icon }}"><span class="label">{{ .medium }}</span></a></li>
-        {{ end }}
-</ul>

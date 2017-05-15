@@ -1,0 +1,9 @@
++++
+title = "About"
++++
+
+Noctvrnal is bringing immersive, spatialized sound design to the forefront of the virtual and augmented reality movement. We believe sound is more than half of the viewing experience, especially when recreating a lifelike, 360 degree environment.
+
+
+Drawing from our background in sound design, mixing, and recording, we explore beyond current techniques in order to pursue a more immersive experience.  We provide complete post-production audio services for virtual, augmented, and mixed realities, including Foley and additional field recording.
+
