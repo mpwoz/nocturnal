@@ -19,6 +19,10 @@ img#logo {
   margin: 0;
 }
 
+#header h1 {
+  color: #ccc;
+}
+
 #header-title ul.icons {
   margin: 0 0 1rem 0;
 }
@@ -51,7 +55,7 @@ img#logo {
   display:flex;
   justify-content:space-around;
   flex-direction: row;
-  color: #227BB4;
+  color: #ccc;
   font-size: 1.3em;
   text-align: center;
 }
