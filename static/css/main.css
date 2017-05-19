@@ -1271,16 +1271,16 @@
 			display: -webkit-flex;
 			display: -ms-flex;
 			display: flex;
-			margin-bottom: 0;
+			margin-bottom: 7px;
 			list-style: none;
 			padding-left: 0;
-			border: solid 1px #ffffff;
+			/* border: solid 1px #ffffff; */
 			border-radius: 4px;
 		}
 
 			#header nav ul li {
 				padding-left: 0;
-				border-left: solid 1px #ffffff;
+				/* border-left: solid 1px #ffffff; */
 			}
 
 				#header nav ul li:first-child {
@@ -1295,7 +1295,7 @@
 					padding: 0 1.25rem 0 1.45rem;
 					text-transform: uppercase;
 					letter-spacing: 0.2rem;
-					font-size: 0.8rem;
+					font-size: 1.3rem;
 					border-bottom: 0;
 				}
 
