@@ -51,6 +51,9 @@ img#logo {
 }
 
 
+@media screen and (max-width: 480px) {
+  .bios {
+    flex-wrap: wrap; } }
 .bios {
   display:flex;
   justify-content:space-around;
@@ -60,9 +63,9 @@ img#logo {
   text-align: center;
 }
 .bio img{
-  padding-right: 10px;
-  width: 100%;
-  border-radius: 4px;
+  margin: 20px;
+  border-radius: 125px;
+  width: 250px;
 }
 
 .copyright {
