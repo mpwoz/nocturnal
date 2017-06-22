@@ -1,1 +1,5 @@
 public/
+node_modules/
+
+# todo: make sure travis can build from source so we don't have to check built css in.
+#static/css
