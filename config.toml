@@ -4,9 +4,9 @@ baseurl = "http://noctvrnal.com/"
 theme = "dimension"
 
 [params]
-  title = "Noctvrnal|Post Production"
+  title = "Noctvrnal"
   logo = "fa-diamond"
-  copyright = "Noctvrnal post production"
+  copyright = "Noctvrnal"
 
 [[params.social]]
   medium = "facebook"
