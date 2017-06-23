@@ -31,9 +31,9 @@ gulp.task("watch", ["scss"], function () {
     gulp.watch("src/scss/**/*", ["scss"])
 })
 
-gulp.task("watch-dev", ["scss-dev"], function () {
+gulp.task("dev", ["scss-dev"], function () {
     gulp.watch("src/scss/**/*", ["scss-dev"])
 })
 
 // Set watch as default task
-gulp.task("default", ["watch-dev"])
+gulp.task("default", ["watch"])
