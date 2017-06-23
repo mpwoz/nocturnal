@@ -1,5 +1,14 @@
-span.work
+div.work
   h2 The Harvest
-  p A virtual reality horror experience, sponsored by Dodge College of Film and Media Arts and AMD.
+  p A virtual reality horror experience, co-sponsored by Chapman University’s Dodge College of Film and Media Arts and AMD.
   img[src="img/harvest.jpg"][alt=""]
 
+div.work
+  h2 At Sea
+  p A cross between cinematic and game engine-based VR, this experience lets viewers explore the world above and below a lonely raft at sea.
+  img[src="img/atsea.jpg"][alt=""]
+
+div.work
+  h2 Slamdance
+  p Slamdance tells the story of a backstage confrontation during a hazy night of punk rock, fist fights, and hidden loyalties. 
+  img[src="img/slamdance.jpg"][alt=""]

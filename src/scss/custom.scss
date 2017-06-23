@@ -77,8 +77,12 @@ img#logo {
 }
 
 
-.work img {
-  width: 100%;
-  border-radius: 4px;
-  display: block;
+.work  {
+  margin-bottom: 40px;
+  img {
+    //width: 315px;
+    width: 100%;
+    border-radius: 4px;
+    display: block;
+  }
 }
